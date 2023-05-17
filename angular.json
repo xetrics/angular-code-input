@@ -31,9 +31,7 @@
               "angular-code-input/tsconfig.lib.json",
               "angular-code-input/tsconfig.spec.json"
             ],
-            "exclude": [
-              "**/node_modules/**"
-            ]
+            "exclude": ["**/node_modules/**"]
           }
         }
       }
